@@ -1,4 +1,4 @@
-# FashionDiffusion Dataset
+# Fashion Diffusion Dataset
 
 This dataset is a collection of fashion runway images with detailed annotations for various attributes, visual features, and generated descriptions. It was created to support research in fashion analysis and image generation.
 
@@ -81,17 +81,13 @@ This dataset can be used for:
 - Developing computer vision models for fashion analysis
 - Studying runway fashion characteristics
 
+## License
+
+This dataset is released under Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC).
+
 ## Citation
 
 If you use this dataset in your research, please cite:
 ```
 [Citation information to be added after publication]
 ```
-
-## License
-
-[Add appropriate license information]
-
-## Contact
-
-For questions about the dataset, please [provide contact information or reference to the paper]
